@@ -1,3 +1,14 @@
-.App{
-    
+.square{
+    width: 30px;
+    height: 30px;
+    margin: 0 0;
+    padding: 0 0;
+    background-color: white;
+    border: 1px solid black;
+}
+.board-row{
+    width: 90px;
+    height: 30px;
+    margin: 0 0;
+    padding: 0 0;
 }
